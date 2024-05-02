@@ -24,3 +24,10 @@ Using the Statistics menue allows you to filter from a variety of options, inclu
 ![image](https://github.com/dbriones49/Wireshark/assets/143753667/c984a2d6-66e6-42d3-b477-fa6f184ff012)
 
 
+#Stream Data
+By right clicking on an event, You can choose FOLLOW< TCP/HTTP STREAM and view information from both the source and target.
+
+
+![image](https://github.com/dbriones49/Wireshark/assets/143753667/33dd87ac-a3be-4530-891f-12f50339aeda)
+
+
