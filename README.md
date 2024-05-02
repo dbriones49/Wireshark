@@ -11,3 +11,16 @@ Using Wireshark to filter for unsecured protocols is simple for users as they ca
 
 
 ![image](https://github.com/dbriones49/Wireshark/assets/143753667/110dfa3e-d584-4c50-87ee-aca5dc42da74)
+
+
+
+# Statistics Filter
+Using the Statistics menue allows you to filter from a variety of options, including endpoints and packet length. Here I used a filter for protocol.
+
+![image](https://github.com/dbriones49/Wireshark/assets/143753667/96f19235-e0c9-4a34-ae53-72b8d9369f8a)
+
+
+
+![image](https://github.com/dbriones49/Wireshark/assets/143753667/c984a2d6-66e6-42d3-b477-fa6f184ff012)
+
+
