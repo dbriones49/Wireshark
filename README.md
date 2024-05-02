@@ -42,7 +42,7 @@ By right clicking on an event, You can choose FOLLOW< TCP/HTTP STREAM and view t
 ![image](https://github.com/dbriones49/Wireshark/assets/143753667/33dd87ac-a3be-4530-891f-12f50339aeda)
 
 
-# Filter for a Specifi IP
+# Filter for a Specific IP
 Here you can enter a query for a specific IP address. This address used the TCP.
 ![image](https://github.com/dbriones49/Wireshark/assets/143753667/79c3762e-c4fc-4880-b769-403d82eee922)
 
