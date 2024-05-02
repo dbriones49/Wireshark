@@ -4,7 +4,7 @@
 ## Introduction
 Wireshark is a popular open-source network protocol analyzer that allows users to capture and analyze network traffic in real-time. By capturing packets as they travel across a network, Wireshark can provide valuable insights into the behavior of network applications and devices. From a cyber security perspective, Wireshark can be used to detect and investigate security incidents, identify malicious activity, and troubleshoot network performance issues. For security purposes, the I.P address of the destinations and sources in the lab have been omitted. 
 
-For this project, the following actions were asked to be performed:
+For this project, the following represent the required actions needed:
 
 - Filter by "HTTP"
 - Review streamed information between the source and target.
@@ -12,7 +12,7 @@ For this project, the following actions were asked to be performed:
 - Confirm the victim's AD environment and confirm the number of clients logged into the domain.
 - Locate the victim's host name given an IP address.
 - Identify the MAC address of the infected windows client.
-- Identify the user account name from the infected Windows host.
+- Identify the user account name of the infected Windows host.
 
 
 
@@ -25,7 +25,7 @@ Using Wireshark to filter for unsecured protocols is simple for users as they ca
 
 
 # Statistics Filter
-Using the Statistics menue allows you to filter from a variety of options, including endpoints and packet length. Here I used a filter for protocol.
+Using the Statistics menu allows you to filter from a variety of options, including endpoints and packet length. Here I used a filter for protocol.
 
 ![image](https://github.com/dbriones49/Wireshark/assets/143753667/96f19235-e0c9-4a34-ae53-72b8d9369f8a)
 
@@ -37,7 +37,7 @@ Using the Statistics menue allows you to filter from a variety of options, inclu
 
 
 # Information in Data Stream
-By right clicking on an event, You can choose FOLLOW< TCP/HTTP STREAM and view the the information received from the source, and the response from the target.
+By right clicking on an event, You can choose FOLLOW< TCP/HTTP STREAM and view both the information received from the source, and the response from the target.
 
 
 ![image](https://github.com/dbriones49/Wireshark/assets/143753667/33dd87ac-a3be-4530-891f-12f50339aeda)
@@ -56,7 +56,7 @@ By right clicking on the pcap and then filtering for TCP stream data, I confirme
 
 
 # Locating username and MAC address
-I filertered by the victim's IP address and with a NameString query, and was able to obtain the noted information. 
+I filtered by the victim's IP address and with a NameString query, and was able to obtain the noted information. 
 
 
 ![image](https://github.com/dbriones49/Wireshark/assets/143753667/ddff9d7c-5933-4175-b42e-cbee502f1121)
