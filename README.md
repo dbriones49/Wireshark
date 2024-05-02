@@ -35,21 +35,21 @@ Using the Statistics menue allows you to filter from a variety of options, inclu
 
 
 
-#Information in Data Stream
+# Information in Data Stream
 By right clicking on an event, You can choose FOLLOW< TCP/HTTP STREAM and view the the information received from the source, and the response from the target.
 
 
 ![image](https://github.com/dbriones49/Wireshark/assets/143753667/33dd87ac-a3be-4530-891f-12f50339aeda)
 
 
-#Filter for a Specifi IP
+# Filter for a Specifi IP
 Here you can enter a query for a specific IP address. This address used the TCP.
 ![image](https://github.com/dbriones49/Wireshark/assets/143753667/79c3762e-c4fc-4880-b769-403d82eee922)
 
 
 
 
-#Confirm domain name and number of clients
+# Confirm domain name and number of clients
 By right clicking on the pcap and then filtering for TCP stream data, I confirmed the domain name and that there were three clients logged in to the domain.
 ![image](https://github.com/dbriones49/Wireshark/assets/143753667/92913213-5a49-4d99-b64c-293139e889d3)
 
