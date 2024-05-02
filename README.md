@@ -25,7 +25,7 @@ Using the Statistics menue allows you to filter from a variety of options, inclu
 
 
 #Stream Data
-By right clicking on an event, You can choose FOLLOW< TCP/HTTP STREAM and view information from both the source and target.
+By right clicking on an event, You can choose FOLLOW< TCP/HTTP STREAM and view the the information received from the source, and the response from the target.
 
 
 ![image](https://github.com/dbriones49/Wireshark/assets/143753667/33dd87ac-a3be-4530-891f-12f50339aeda)
