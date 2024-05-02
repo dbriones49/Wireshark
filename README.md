@@ -10,6 +10,7 @@ For this project, the following actions were asked to be performed:
 - Review streamed information between the source and target.
 - Filter for a specific IP address and confirm the protocol.
 - Confirm the victim's AD environment and confirm the number of clients logged into the domain.
+- Locate the victim's host name given an IP address.
 - Identify the MAC address of the infected windows client.
 - Identify the user account name from the infected Windows host.
 
@@ -52,6 +53,13 @@ Here you can enter a query for a specific IP address. This address used the TCP.
 # Confirm domain name and number of clients
 By right clicking on the pcap and then filtering for TCP stream data, I confirmed the domain name and that there were three clients logged in to the domain.
 ![image](https://github.com/dbriones49/Wireshark/assets/143753667/92913213-5a49-4d99-b64c-293139e889d3)
+
+
+# Locating username and MAC address
+I filertered by the victim's IP address and with a NameString query, and was able to obtain the noted information. 
+
+
+![image](https://github.com/dbriones49/Wireshark/assets/143753667/ddff9d7c-5933-4175-b42e-cbee502f1121)
 
 
 
