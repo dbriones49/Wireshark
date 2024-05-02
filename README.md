@@ -61,6 +61,11 @@ I filtered by the victim's IP address and with a NameString query, and was able 
 
 ![image](https://github.com/dbriones49/Wireshark/assets/143753667/ddff9d7c-5933-4175-b42e-cbee502f1121)
 
+# Conclusion
+Wireshark has strong filtering capabilities that enable cybersecurity professionals to extract specific information from vast amounts of data, making it an essential tool for cyber forensics investigations. By utilizing Wireshark's filtering features, organizations can enhance their cyber posture by identifying and mitigating threats more efficiently, ultimately improving their overall security posture.
+
+
+
 
 
 
